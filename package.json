@@ -1,0 +1,28 @@
+{
+  "name": "commerce-bot",
+  "version": "1.0.0",
+  "description": "A Discord bot designed to automate e-commerce processes, including product purchasing, payment processing, and order management.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RapidMesck/commerce-bot.git"
+  },
+  "author": "RapidMesck",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RapidMesck/commerce-bot/issues"
+  },
+  "homepage": "https://github.com/RapidMesck/commerce-bot#readme",
+  "dependencies": {
+    "discord.js": "^14.16.3",
+    "dotenv": "^16.4.7"
+  },
+  "devDependencies": {
+    "tsup": "^8.3.5",
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.2"
+  }
+}
